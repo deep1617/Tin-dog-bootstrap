@@ -1,0 +1,83 @@
+body{
+    font-family: 'Montserrat-bold', sans-serif;
+}
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+    
+}
+.title1{
+    width: 70%;
+    margin: 0 auto 0 auto;
+    /* padding: 5% 100%; */
+}
+.mynav{
+    padding-top: 2.5rem;
+    padding-bottom: 4.5rem;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+}
+.h1{
+    font-weight: bold;
+    font-size: 4rem;
+    padding-bottom: 2rem;
+}
+.btn{
+    /* padding: auto 2.5rem; */
+    width: 30%;
+    margin-left: 2%;
+}
+.fab{
+     margin-right: 5%;
+}
+.dog{
+    width: 60%;
+    margin-left: 10%;
+    transform: rotate(15deg)
+}
+/* feature section */
+#features{
+    padding: 10% 15%;
+    
+}
+.features{
+    text-align: center;
+}
+.fas{
+    color: #ef8172;
+    
+}
+h3{
+    font-family: 'Montserrat-bold';
+    font-weight: bold;
+}
+p{
+    color: #8f8f8f;
+}
+/* testimonials */
+#testimonials{
+    background-color: #ef8172;
+    padding: 10% 15%;
+    text-align: center;
+     color: #fff;
+}
+.testi-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 4% 4%;
+}
+h2{
+    width: 75%;
+    margin: 0 auto 0 auto;
+}
+/* press */
+#press{
+    background-color: #ef8172;
+    padding-bottom: 7%;
+    text-align: center;
+}
+.press{
+    width: 15%;
+    margin: 0 1%;
+}
