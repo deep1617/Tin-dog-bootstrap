@@ -44,7 +44,7 @@ body{
 .features{
     text-align: center;
 }
-.fas{
+.img{
     color: #ef8172;
     
 }
@@ -65,6 +65,7 @@ p{
 .testi-image{
     width: 10%;
     border-radius: 100%;
+
     margin: 4% 4%;
 }
 h2{
